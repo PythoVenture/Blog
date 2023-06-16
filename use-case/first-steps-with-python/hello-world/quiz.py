@@ -15,7 +15,7 @@ if quiz1 == "A":
 print("\n")
 print("QUESTION #2")
 print("What type of data can be use in input?")
-print(" A: Only stringA\n B: Only numbers\n C: Almost everything")
+print(" A: Only string\n B: Only numbers\n C: Almost everything")
 
 quiz2 = input("Pleas type your answer: ")
 
